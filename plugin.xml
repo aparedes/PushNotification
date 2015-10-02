@@ -28,7 +28,6 @@
 		<engine name="cordova" version=">=3.0.0"/>
 	</engines>
 
-	<dependency id="cordova-plugin-device"/>
 	<dependency id="cordova-plugin-globalization"/>
 
 	<!-- android -->
